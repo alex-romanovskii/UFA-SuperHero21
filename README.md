@@ -35,7 +35,7 @@ Form for submitting statistical data online. A check is automatically carried ou
 #### Tab "Загрузить" (Upload)
 Here you can download the previous form in csv format. The system will check not only the file extension, but also the names and number of columns in the form. Only with full compliance, the form will be uploaded to the server and automatically added to the previous data. The dashboard will also update all visualizations.  
 Added on this tab, you can analyze the number of missing values for each participant who submitted the form.  
-![Screenshot](pics/upload.PNG.PNG)
+![Screenshot](pics/upload.PNG)
 
 ### Technology (Python)
 - Dash (Frontend)
