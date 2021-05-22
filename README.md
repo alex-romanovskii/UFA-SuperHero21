@@ -11,25 +11,25 @@
 
 ### Solution
 #### Tab "О нас" (about us)
-contains introductory information  
+Contains introductory information  
 ![Screenshot](pics/about_us.PNG)
 
 #### Tab "Дашборд" (Dashboard)
-Various data dependencies can be found here.
-Additionally: statistics for other regions are uploaded to the server. The last two visualizations allow for a visual comparison of the production index by region.
+Various data dependencies can be found here.  
+**Additionally**: statistics for other regions are uploaded to the server. The last two visualizations allow for a visual comparison of the production index by region.
 is a dashboard consisting of interactive visualizations: 
-- Sunburst plots (visualize hierarchical data spanning outwards radially from root to leaves)  
+- **Sunburst plots** (visualize hierarchical data spanning outwards radially from root to leaves)  
 ![Screenshot](pics/Sunburst.PNG)
-- Bar plots  
+- **Bar plots**  
 ![Screenshot](pics/Bar.PNG)
-- Line plots  
+- **Line plots**  
 ![Screenshot](pics/Line.PNG)  
 ![Screenshot](pics/Line2.PNG)
-- Choropleth Maps  
+- **Choropleth Maps**  
 ![Screenshot](pics/Map.PNG)
 
 #### Tab "Форма онлайн" (Online form)
-form for submitting statistical data online. A check is automatically carried out for the correctness of filling in the data. After submitting the form, the data will be automatically added to the current data on the server, and the dashboard will update the visualizations  
+Form for submitting statistical data online. A check is automatically carried out for the correctness of filling in the data. After submitting the form, the data will be automatically added to the current data on the server, and the dashboard will update the visualizations  
 ![Screenshot](pics/online_form.PNG)
 
 #### Tab "Загрузить" (Upload)
