@@ -11,7 +11,7 @@
 
 ### Solution
 #### Tab "О нас" (about us)
-contains introductory information
+contains introductory information  
 ![Screenshot](pic/about_us.PNG)
 
 #### Tab "Дашборд" (Dashboard)
