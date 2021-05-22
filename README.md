@@ -12,30 +12,30 @@
 ### Solution
 #### Tab "О нас" (about us)
 contains introductory information  
-![Screenshot](pic/about_us.PNG)
+![Screenshot](pics/about_us.PNG)
 
 #### Tab "Дашборд" (Dashboard)
 Various data dependencies can be found here.
 Additionally: statistics for other regions are uploaded to the server. The last two visualizations allow for a visual comparison of the production index by region.
 is a dashboard consisting of interactive visualizations: 
-- Sunburst plots (visualize hierarchical data spanning outwards radially from root to leaves)
-![Screenshot](pic/Sunburst.PNG)
-- Bar plots
-![Screenshot](pic/Bar.PNG)
-- Line plots
-![Screenshot](pic/Line.PNG)
-![Screenshot](pic/Line2.PNG)
-- Choropleth Maps
-![Screenshot](pic/Map.PNG)
+- Sunburst plots (visualize hierarchical data spanning outwards radially from root to leaves)  
+![Screenshot](pics/Sunburst.PNG)
+- Bar plots  
+![Screenshot](pics/Bar.PNG)
+- Line plots  
+![Screenshot](pics/Line.PNG)  
+![Screenshot](pics/Line2.PNG)
+- Choropleth Maps  
+![Screenshot](pics/Map.PNG)
 
 #### Tab "Форма онлайн" (Online form)
-form for submitting statistical data online. A check is automatically carried out for the correctness of filling in the data. After submitting the form, the data will be automatically added to the current data on the server, and the dashboard will update the visualizations
-![Screenshot](pic/online_form.PNG)
+form for submitting statistical data online. A check is automatically carried out for the correctness of filling in the data. After submitting the form, the data will be automatically added to the current data on the server, and the dashboard will update the visualizations  
+![Screenshot](pics/online_form.PNG)
 
 #### Tab "Загрузить" (Upload)
 Here you can download the previous form in csv format. The system will check not only the file extension, but also the names and number of columns in the form. Only with full compliance, the form will be uploaded to the server and automatically added to the previous data. The dashboard will also update all visualizations.  
-Added on this tab, you can analyze the number of missing values for each participant who submitted the form.
-![Screenshot](pic/upload.PNG.PNG)
+Added on this tab, you can analyze the number of missing values for each participant who submitted the form.  
+![Screenshot](pics/upload.PNG.PNG)
 
 ### Technology (Python)
 - Dash (Frontend)
