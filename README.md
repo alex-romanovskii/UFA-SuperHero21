@@ -19,14 +19,17 @@ Various data dependencies can be found here.
 **Additionally**: statistics for other regions are uploaded to the server. The last two visualizations allow for a visual comparison of the production index by region.
 is a dashboard consisting of interactive visualizations: 
 - **Sunburst plots** (visualize hierarchical data spanning outwards radially from root to leaves)  
-![Screenshot](pics/Sunburst.PNG)
+![Screenshot](pics/Sunburst.PNG)  
+
 - **Bar plots**  
-![Screenshot](pics/Bar.PNG)
+![Screenshot](pics/Bar.PNG)  
+
 - **Line plots**  
-![Screenshot](pics/Line.PNG)  
-![Screenshot](pics/Line2.PNG)
+![Screenshot](pics/Line.PNG)    
+![Screenshot](pics/Line2.PNG)  
+
 - **Choropleth Maps**  
-![Screenshot](pics/Map.PNG)
+![Screenshot](pics/Map.PNG)  
 
 #### Tab "Форма онлайн" (Online form)
 Form for submitting statistical data online. A check is automatically carried out for the correctness of filling in the data. After submitting the form, the data will be automatically added to the current data on the server, and the dashboard will update the visualizations  
