@@ -1,0 +1,26 @@
+body {
+margin: 0; background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%)
+}
+
+.custom-tab {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    font-size: 18px;
+    color:#3c3737;
+    font-weight:bolder;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-left: 0px;
+    border-right: 0px ;
+    border-bottom: 0px ;
+    background-color: #a55ac4;
+    font-family: "system-ui";
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.custom-tab--selected {
+    color: black;
+    box-shadow: 1px 1px 0px white;
+    border-top: 3px solid #e36209;
+}
